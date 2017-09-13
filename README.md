@@ -1,4 +1,6 @@
 # Improving multivariate time series forecasting with random walks with restarts on causality graphs
+*Piotr Przymus, Youssef Hmamouche, Alain Casali, Lotfi Lakhal*
+BDSR 2017 : Workshop on Big Data & Data Science in Retail in conjunction with ICDM
 
 ## Experiment details
 
